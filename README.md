@@ -14,8 +14,10 @@ Desenvolver um banco de dados relacional funcional que gerencie:
 - Entregadores
 - Pedidos
 - Avaliações
+
 Simulando o fluxo completo de um sistema de delivery de refeições.  
 O projeto abrange desde a criação das tabelas até a implementação de consultas complexas, views e stored procedures automatizadas.
+
 ---
 ## 🧩 Estrutura do Projeto
 O arquivo final contém:
